@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Business Analytics Platform
 
 A comprehensive web application for business analytics and product management.
@@ -52,3 +53,6 @@ src/
 ├── App.js
 └── App.css
 ```
+=======
+# business-analytics
+>>>>>>> bb53866c174ddf601e5ae3ff1d0687d20d68404e
